@@ -1,6 +1,6 @@
-facturasmex.cloud/b08/
+facturasmex.cloud
 
-ca1.sytes.net/22/22
+ca1.sytes.net
 
 dropbox.com/scl/fi/k6hxua7lwt1qcgmqou6q3/m.zip
 
