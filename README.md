@@ -1,8 +1,8 @@
-https://facturasmex.cloud/b08/
+facturasmex.cloud/b08/
 
-http://ca1.sytes.net/22/22
+ca1.sytes.net/22/22
 
-https://www.dropbox.com/scl/fi/k6hxua7lwt1qcgmqou6q3/m.zip
+dropbox.com/scl/fi/k6hxua7lwt1qcgmqou6q3/m.zip
 
 facturasm.cloud
 
